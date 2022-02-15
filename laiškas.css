@@ -1,0 +1,35 @@
+.box {
+    max-width: 800px;
+    border: 1px solid black;
+    background-color: lavender;
+    padding: 20px;
+    text-align: justify;
+    font-family: Courier New, Courier, monospace;
+}
+.adresai {
+    text-align: left;
+    line-height: 1;
+    border-bottom: 30px;
+    border-top: 30px;
+}
+.data {
+    font-weight: bold;
+}
+.kreipinys {
+    border-bottom: 25px;
+    border-top: 25px;
+    font-size: 20px;
+}
+.text {
+    line-height: 2;
+}
+p {
+    line-height: 1;
+}
+.nematomas {
+    visibility: hidden;
+}
+.atsisveikinimas {
+    text-align: right;
+    border-top: 25px;
+}
